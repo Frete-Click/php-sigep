@@ -1,5 +1,5 @@
 {
-    "name": "stavarengo/php-sigep",
+    "name": "Frete-Click/php-sigep",
     "type": "library",
     "description": "Integração com Web Service do Correios. Gera etiquetas, consulta preços e prazos, imprime etiquetas e PLP, etc.",
     "keywords": ["correios", "sigep"],
@@ -18,7 +18,7 @@
         "php": ">=5.4",
         "ext-soap": "*",
         "ext-mbstring": "*",
-        "stavarengo/php-sigep-fpdf": "dev-master",
+        "Frete-Click/php-sigep-fpdf": "*",
         "vria/nodiacritic": "^0.1.2"
     },
     "require-dev": {
