@@ -18,7 +18,7 @@
         "php": ">=5.4",
         "ext-soap": "*",
         "ext-mbstring": "*",
-        "Frete-Click/php-sigep-fpdf": "*",
+        "frete-click/php-sigep-fpdf": "*",
         "vria/nodiacritic": "^0.1.2"
     },
     "require-dev": {
